@@ -23,7 +23,7 @@ Projeto final sobre a matéria desenvolvimento Web II
     <img align="center" alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div><br/>
 
-SQL :
+### SQL :
 
 SQL para gerar um perfil de ADMIN no sistema.
 
